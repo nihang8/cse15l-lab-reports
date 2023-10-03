@@ -4,4 +4,4 @@
 
 > hmmm
 
-[hahahahha](https://nihang8.github.io/cse15l-lab-reports/index.html)
+[hahahahha](https://nihang8.github.io/cse15l-lab-reports/hahaha.html)
