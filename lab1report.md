@@ -1,4 +1,4 @@
-# Lab 1 Report
+# Lab Report 1
 ## cd
 1. Share an example of using the command with no arguments.
    ![Image](Screenshot 2023-10-09 at 4.54.45 PM.png)
