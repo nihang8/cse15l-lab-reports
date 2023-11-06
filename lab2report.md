@@ -14,7 +14,7 @@ When I enter the second url into my browser, the method handleRequest is called 
 
 # Part 2
 ## Private Key:
-![Image](Screenshot 2023-10-22 at 8.25.27 PM.png)
+![Image](Screenshot 2023-11-05 at 7.59.26 PM.png)
 ## Public Key:
 ![Image](Screenshot 2023-10-22 at 8.24.52 PM.png)
 ## Login:
