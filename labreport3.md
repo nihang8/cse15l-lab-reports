@@ -16,7 +16,7 @@
   }
 ```
 ## The symptom:
-!Image(Screenshot 2023-11-05 at 8.45.26 PM.png)
+![Image](Screenshot 2023-11-05 at 8.45.26 PM.png)
 
 ## The bug:
 Before fix:
