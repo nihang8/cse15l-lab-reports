@@ -78,6 +78,6 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 
 Command line: bash test.sh
 
-to fix the bug, changed line 11 in ListExamples from "||" to "&&"
+to fix the bug, changed loop condition in line 11 of ListExamples to &&
 
 I learned how to use the jdb command to stop code at certain lines and check the local variables to help with debugging.
