@@ -1,8 +1,10 @@
 Student: my tests keep failing and giving this output.
-!Image[Screenshot 2023-12-03 at 8.41.33 PM.png]
+![Image](Screenshot 2023-12-03 at 8.41.33 PM.png)
+
 TA: the test output shows that the index out of bounds excpetion occurs at line 12. check what is happening around this line in the method code and consider how your input leads to an out of bounds index being used. 
+
 Student: thank you. the condition for my while loop was using || when it should have been &&. this led to the loop to continue running for indexes beyond what it should.
-!Image[Screenshot 2023-12-03 at 8.54.26 PM.png]
+![Image](Screenshot 2023-12-03 at 8.54.26 PM.png)
 
 files: 
 ListExamples.java
